@@ -1,0 +1,3 @@
+controllers:
+    resource: '../../src/Infrastructure/Http/Api/Controllers/'
+    type: annotation
